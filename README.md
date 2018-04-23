@@ -1,2 +1,3 @@
-# journal
-Personlig Journal
+  - Journal
+  - Stefan Larsson
+  - https://github.com/LarssonS/journal
